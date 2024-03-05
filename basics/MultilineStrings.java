@@ -1,3 +1,4 @@
+package basics;
 public class MultilineStrings{
     public static void main(String[] args){
         // String a="hello world.

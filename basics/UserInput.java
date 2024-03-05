@@ -1,3 +1,4 @@
+package basics;
 // import textio.TextIO;
 import java.util.Scanner;
 public class UserInput {

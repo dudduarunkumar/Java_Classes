@@ -1,3 +1,4 @@
+package basics;
 public class Abc{
     public static void main(String[] as){
         System.out.println("Hello \"Arun\"");  // Hello "Arun"

@@ -1,3 +1,4 @@
+package basics;
 public class Formats {
     public static void main(String[] args){
         System.out.println("Formats-----");
